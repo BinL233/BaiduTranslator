@@ -2,6 +2,8 @@
 
 这是一个百度翻译小程序
 
+![效果图](https://github.com/BinL233/BaiduTranslator/blob/main/111.PNG)
+
 
 ## 更新日志：
 
@@ -11,11 +13,13 @@
 
 
 
+
 ### 2022/1/25
 
 1.生成了exe文件
 
 2.创建了UI
+
 
 
 
