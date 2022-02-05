@@ -2,7 +2,7 @@
 
 这是一个百度翻译小程序
 
-![效果图](https://github.com/BinL233/BaiduTranslator/blob/main/Images/2.png)
+![效果图](https://github.com/BinL233/BaiduTranslator/blob/main/Images/Clip.PNG)
 
 
 ## 更新日志：
