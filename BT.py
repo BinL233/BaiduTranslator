@@ -19,7 +19,7 @@ def work(input):
         output = '\n'.join(output)
 
         if output == '':
-                return('目前还不支持该词条TAT')
+                return('目前还不支持该词条TAT\n\n建议输入单个词条~')
 
         else:
                 return(output)
